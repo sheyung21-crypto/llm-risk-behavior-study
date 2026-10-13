@@ -1,0 +1,11 @@
+{
+  "data/aggregate/frozen_results.json": "c35a5278829b71bf4d9e9753b7ed91306f546ef412d29b56459017553404e14d",
+  "data/aggregate/paired_condition_comparisons.csv": "3bbeaea4269c64d07ccdd8582230ca9485e564cd6ee8e91d460bcd463a06b365",
+  "data/aggregate/stage1_h8_item_results.csv": "8022bfd77d68f8f347b847d80293667b89c291913a47cc0765361c5f8d76805e",
+  "data/aggregate/k_stability_results.csv": "650eac1d9f82184b8e6bef832ad0d42ffc64ab61971f908a1c3ba4451e840259",
+  "data/aggregate/descriptive_distributions.csv": "42c3a8c1c76a1c998db14521ce6f81e1184bcc940b267173c49a8cb3a2fbf3e6",
+  "data/aggregate/metric_scale_audit.csv": "d9e4be518b017dc166f25f8d5914d4542eebec1f5498e2e36e98b5af122a1ce8",
+  "data/aggregate/analysis_ledger.csv": "696bbffc6e2b446215c1055199e1abc880e7e0fb21ab20b911318fc3e7e339ef",
+  "data/aggregate/table_s2_list_schedule.csv": "85f4790bc48e9609bcd5cc37f589d43561dce961a6be0fd87367f9abf05694da",
+  "data/aggregate/table_s4_reproducibility_hashes.csv": "446268a56dca651e6800de952bb368cf0bd02dda9a4f99a1129a888fb0de3351"
+}

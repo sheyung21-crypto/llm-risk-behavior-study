@@ -1,0 +1,17 @@
+{
+  "source": "config/analysis.yaml",
+  "source_sha256": "bf2e4affda102eb3ab93f9e4484c2d11484e3579199aa69d24c8b531462063b4",
+  "excerpt": "analysis_settings.yaml",
+  "frozen_result_seeds": {
+    "c2_randomization": 20260913,
+    "c3_randomization": 20260914,
+    "condition_bootstrap": 20260911,
+    "k_bootstrap": 20260910,
+    "primary_permutation": 20260912,
+    "ridge_cv": 20260915,
+    "stage1_bootstrap": 20260909,
+    "stage1_permutation": 20260908
+  },
+  "resamples": 10000,
+  "role_note": "C1 primary; C2 sensitivity; C3 diagnostic. Historical YAML groups C2/C3 under sensitivity_conditions; current roles follow analysis ledger and manuscript."
+}

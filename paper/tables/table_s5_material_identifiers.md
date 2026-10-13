@@ -1,0 +1,15 @@
+表 S5　研究材料識別與版本查核
+
+|材料|檔案識別|SHA-256|
+|---|---|---|
+|PSM 主樣本|MainSample_Replication.dta|b3f73682167708e975afee3ba047c6d3<br>9c06dcfa481949dd461cec833100f19d|
+|真人重測樣本|TestRetestExp_Replication.dta|f1f6ac91f80d8d2897fd6f455f10ad0b<br>bffb30c28915190dac8895575fcabf0d|
+|原研究線上附錄|online_appendix.pdf|9223a991c79b047edafe8cff926961b4<br>3aa5fe65b995119c873b34497a9426cd|
+|原資料說明|README.pdf|79c717cfb9af4f12d0ba00299896f094<br>aa3f6778b3d17c4626c22991ae062c1f|
+|行為模擬背景報告|report (4).pdf|b9de90a4fae2f98ae6ae85c798b66ed6<br>f091b43056cf2f27574bcb3d2caf2284|
+|C1／C3 工作配置|confirmatory_job_matrix.jsonl|d0d23a9d8a5a048080f024ff6b0752d1<br>e041701f24716f5256491ad9ecfae013|
+|List 1 排程|list_1.csv|58c3215b161387267438c0c356aa5e2a<br>0013e6737dbeca692e333e0375d62e27|
+|List 2 重建排程|list_2.csv|5a651069e939ce45254162462cfe6050<br>59ad9ff6e20aab92e69cb183d2298404|
+|C1 提示範本|broad_condition.txt|b07e932743cfe535d902e7c9e808900f<br>63335b29c6f7b5247842116a460409b5|
+
+註：SHA-256 是檔案內容的完整雜湊識別碼，每列兩行需連接後使用；不是截短值。此表沿用封存來源紀錄，並未重新讀取逐人資料。主樣本與真人重測資料需受限取用；列入此表不表示取得第三方材料再散布授權。完整相對路徑與來源紀錄保留於隨附 CSV。

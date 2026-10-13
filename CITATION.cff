@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "請引用本檔所列作者、題名、版本及使用的 Git commit；本套件不表示論文已獲錄用。"
+title: "問卷條件化大型語言模型能否重建個體風險排序？排序對應、尺度偏差與測量穩定性"
+type: software
+version: "2026-10-13-model-answers"
+url: "https://github.com/sheyung21-crypto/llm-risk-behavior-study"
+repository-code: "https://github.com/sheyung21-crypto/llm-risk-behavior-study"
+date-released: "2026-10-13"
+authors:
+  - family-names: "Yang"
+    given-names: "Shih-Yung"
+    affiliation: "天主教輔仁大學金融與國際企業學系"
+abstract: "本套件提供研究方法、凍結彙總結果、論文圖表、移除原始識別與逐人連結的結構化模型回答，以及公開層重現工具。作者中文姓名：楊世永。未指定開放再利用授權。"

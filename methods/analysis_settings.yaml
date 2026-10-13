@@ -1,0 +1,56 @@
+goal8_confirmatory_analysis:
+  authorization_status: approved
+  outcome_blind_phase_required_before_unlock: true
+  outcome_unlock_file: data/locked/confirmatory_outcomes.parquet
+  primary_condition: C1
+  primary_metric: spearman_C1_score_with_x_risk_av
+  inference:
+    resamples: 10000
+    confidence_interval: percentile_95
+    permutation_p_value: two_sided_plus_one
+    participant_vector_resampling: true
+  sensitivity_conditions: [C2, C3]
+  paired_absolute_error_tests:
+    C2: absolute_error_C2_minus_absolute_error_C1
+    C3: absolute_error_C1_minus_absolute_error_C3
+    randomization: within_participant_label_swap
+  stage1_h8:
+    method_status: historical_method_fixed
+    global_statistic: mean_of_eight_item_spearman_correlations
+    permutation_unit: full_human_participant_vector
+    multiplicity: Holm
+    benchmark_0_exclusions: [R29, R35, R48, R50]
+  k_stability:
+    primary_K_remains: 1
+    participants: 30
+    repeats: 5
+    lists: 2
+    estimator: ICC_1_1_one_way_random_effects
+    candidate_average_reliability_K: [1, 3, 5]
+    bootstrap_unit: participant_five_repeat_vector
+    hard_threshold: false
+  ridge_reference:
+    role: supervised_contextual_reference
+    features: fixed_C1_46_numeric_questionnaire_responses
+    target: x_risk_av
+    objective: mean_squared_prediction_error
+    outer_folds: 5
+    inner_folds: 5
+    scaling: training_fold_only
+    alpha_grid:
+      scale: log10
+      minimum: 0.0001
+      maximum: 10000
+      count: 33
+  published_R2_R3_context:
+    formula: 0.4244_times_standardized_v_94_plus_0.5756_times_standardized_v_109
+    role: contextual_not_information_equal
+  fixed_seeds:
+    stage1_permutation: 20260908
+    stage1_bootstrap: 20260909
+    k_bootstrap: 20260910
+    condition_bootstrap: 20260911
+    primary_permutation: 20260912
+    c2_randomization: 20260913
+    c3_randomization: 20260914
+    ridge_cv: 20260915

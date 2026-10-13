@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="453.54330708661416" height="452" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 452" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>表 S5　研究材料識別與版本查核</title>
+	<desc>註：SHA-256 是檔案內容的完整雜湊識別碼，每列兩行需連接後使用；不是截短值。此表沿用封存來源紀錄，並未重新讀取逐人資料。主樣本與真人重測資料需受限取用；列入此表不表示取得第三方材料再散布授權。完整相對路徑與來源紀錄保留於隨附 CSV。</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="453.54330708661416" height="452"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-452)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="453.54330708661416" height="452" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="0" y="441" style="font-family: Microsoft JhengHei, sans-serif; font-size: 10.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,882) scale(1,-1)">表 S5　研究材料識別與版本查核</text>
+			<path d="M 0,425 L 453.543307,425 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="4" y="410" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,820) scale(1,-1)">材料</text>
+			<text x="92" y="410" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,820) scale(1,-1)">檔案識別</text>
+			<text x="243" y="410" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,820) scale(1,-1)">SHA-256</text>
+			<path d="M 0,400 L 453.543307,400 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="4" y="385" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,770) scale(1,-1)">PSM 主樣本</text>
+			<text x="92" y="385" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,770) scale(1,-1)">MainSample_Replication.dta</text>
+			<text x="243" y="385" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,770) scale(1,-1)">b3f73682167708e975afee3ba047c6d3</text>
+			<text x="243" y="372" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,744) scale(1,-1)">9c06dcfa481949dd461cec833100f19d</text>
+			<text x="4" y="347" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,694) scale(1,-1)">真人重測樣本</text>
+			<text x="92" y="347" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,694) scale(1,-1)">TestRetestExp_Replication.dta</text>
+			<text x="243" y="347" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,694) scale(1,-1)">f1f6ac91f80d8d2897fd6f455f10ad0b</text>
+			<text x="243" y="334" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,668) scale(1,-1)">bffb30c28915190dac8895575fcabf0d</text>
+			<text x="4" y="309" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,618) scale(1,-1)">原研究線上附錄</text>
+			<text x="92" y="309" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,618) scale(1,-1)">online_appendix.pdf</text>
+			<text x="243" y="309" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,618) scale(1,-1)">9223a991c79b047edafe8cff926961b4</text>
+			<text x="243" y="296" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,592) scale(1,-1)">3aa5fe65b995119c873b34497a9426cd</text>
+			<text x="4" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">原資料說明</text>
+			<text x="92" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">README.pdf</text>
+			<text x="243" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">79c717cfb9af4f12d0ba00299896f094</text>
+			<text x="243" y="258" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,516) scale(1,-1)">aa3f6778b3d17c4626c22991ae062c1f</text>
+			<text x="4" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">行為模擬背景報告</text>
+			<text x="92" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">report (4).pdf</text>
+			<text x="243" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">b9de90a4fae2f98ae6ae85c798b66ed6</text>
+			<text x="243" y="220" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,440) scale(1,-1)">f091b43056cf2f27574bcb3d2caf2284</text>
+			<text x="4" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">C1／C3 工作配置</text>
+			<text x="92" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">confirmatory_job_matrix.jsonl</text>
+			<text x="243" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">d0d23a9d8a5a048080f024ff6b0752d1</text>
+			<text x="243" y="182" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,364) scale(1,-1)">e041701f24716f5256491ad9ecfae013</text>
+			<text x="4" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">List 1 排程</text>
+			<text x="92" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">list_1.csv</text>
+			<text x="243" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">58c3215b161387267438c0c356aa5e2a</text>
+			<text x="243" y="144" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,288) scale(1,-1)">0013e6737dbeca692e333e0375d62e27</text>
+			<text x="4" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">List 2 重建排程</text>
+			<text x="92" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">list_2.csv</text>
+			<text x="243" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">5a651069e939ce45254162462cfe6050</text>
+			<text x="243" y="106" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,212) scale(1,-1)">59ad9ff6e20aab92e69cb183d2298404</text>
+			<text x="4" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">C1 提示範本</text>
+			<text x="92" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">broad_condition.txt</text>
+			<text x="243" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">b07e932743cfe535d902e7c9e808900f</text>
+			<text x="243" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">63335b29c6f7b5247842116a460409b5</text>
+			<path d="M 0,58 L 453.543307,58 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="0" y="42" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,84) scale(1,-1)">註：SHA-256 是檔案內容的完整雜湊識別碼，每列兩行需連接後使用；不是截短值。此表沿用封存來源紀錄，並</text>
+			<text x="0" y="29" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,58) scale(1,-1)">未重新讀取逐人資料。主樣本與真人重測資料需受限取用；列入此表不表示取得第三方材料再散布授權。完整相對</text>
+			<text x="0" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">路徑與來源紀錄保留於隨附 CSV。</text>
+		</g>
+	</g>
+</svg>

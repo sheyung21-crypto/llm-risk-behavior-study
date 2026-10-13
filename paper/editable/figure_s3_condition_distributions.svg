@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="453.54330708661416" height="265" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 265" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>圖 S3　真人與三種問卷條件的分布摘要</title>
+	<desc>註：所有列使用相同尺度；端點為最小／最大值，框為第 25–75 百分位數，直線為中位數，叉號為平均數。只呈現既有摘要，未估計密度或另判定離群值。C3 均值接近真人，亦伴隨較大分散程度；不能僅據平均接近宣稱校準改善。</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="453.54330708661416" height="265"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-265)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="403.76205708661416" y="248" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,496) scale(1,-1)">各列 N=342</text>
+			<text x="0" y="221" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,442) scale(1,-1)">真人</text>
+			<path d="M 99.359205,224 L 446.543307,224 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 99.359205,220 L 99.359205,228 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 446.543307,220 L 446.543307,228 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<rect x="212.19403824521936" y="217" width="60.75721784776903" height="14" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 246.912448,217 L 246.912448,231 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 242.163551,221.5 L 247.163551,226.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 242.163551,226.5 L 247.163551,221.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="82" y="203" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,406) scale(1,-1)">平均 10.3704；SD 3.0929；中位數 10.5</text>
+			<text x="0" y="170" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,340) scale(1,-1)">C1 主要</text>
+			<path d="M 99.359205,173 L 316.349269,173 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 99.359205,169 L 99.359205,177 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 316.349269,169 L 316.349269,177 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<rect x="168.7960254968129" y="166" width="52.07761529808775" height="14" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 194.834833,166 L 194.834833,180 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 194.263634,170.5 L 199.263634,175.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 194.263634,175.5 L 199.263634,170.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="82" y="152" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,304) scale(1,-1)">平均 7.6111；SD 2.3678；中位數 7.5</text>
+			<text x="0" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">C2 敏感度</text>
+			<path d="M 99.359205,122 L 325.028871,122 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 99.359205,118 L 99.359205,126 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 325.028871,118 L 325.028871,126 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<rect x="177.4756280464942" y="115" width="52.07761529808772" height="14" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 194.834833,115 L 194.834833,129 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 200.379962,119.5 L 205.379962,124.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 200.379962,124.5 L 205.379962,119.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="82" y="101" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,202) scale(1,-1)">平均 7.9635；SD 2.3285；中位數 7.5</text>
+			<text x="0" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">C3 診斷</text>
+			<path d="M 99.359205,71 L 429.184102,71 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 99.359205,67 L 99.359205,75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 429.184102,67 L 429.184102,75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<rect x="203.51443569553805" y="64" width="69.43682039745033" height="14" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 255.592051,64 L 255.592051,78 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 240.7325,68.5 L 245.7325,73.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 240.7325,73.5 L 245.7325,68.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="82" y="50" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,100) scale(1,-1)">平均 10.2880；SD 3.8395；中位數 11.0</text>
+			<path d="M 82,31 L 446.543307,31 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 82,31 L 82,28 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="79.391845703125" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">1</text>
+			<path d="M 151.43682,31 L 151.43682,28 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="148.82866610057533" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">5</text>
+			<path d="M 238.232846,31 L 238.232846,28 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="233.0165373005132" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">10</text>
+			<path d="M 325.028871,31 L 325.028871,28 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="319.8125627973261" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">15</text>
+			<path d="M 411.824897,31 L 411.824897,28 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="406.608588294139" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">20</text>
+			<path d="M 446.543307,31 L 446.543307,28 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="441.32699849286416" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">22</text>
+			<text x="216.77165354330708" y="0" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,0) scale(1,-1)">分數：兩表平均轉換列</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,27 @@
+{
+  "checked_on": "2026-09-09",
+  "source_article": "https://doi.org/10.1287/mnsc.2022.4455",
+  "supplemental_page": "https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2022.4455",
+  "dataset_terms": "https://services.informs.org/dataset/mnsc/download.php?doi=mnsc.2022.4455",
+  "finding_zh": "該論文下載頁用途限於驗證原論文可重現性，其他用途需明確許可；與先前二次研究確認的適用依據待釐清。",
+  "agreement_submitted": false,
+  "data_downloaded": false,
+  "authors_contacted": false,
+  "third_party_materials_redistributed": false,
+  "full_questionnaire_text_redistributed": false,
+  "update_2026_10_13": {
+    "research_use_permission": "author_permission_confirmed_by_user",
+    "approval_letter_included": false,
+    "raw_data_redistribution_permission": "not_asserted",
+    "structured_model_answer_export_approved_by_user": true,
+    "github_upload_performed": false,
+    "historical_finding_retained": true
+  },
+  "public_repository_authorization": {
+    "confirmed_by_user": true,
+    "repository_url": "https://github.com/sheyung21-crypto/llm-risk-behavior-study",
+    "scope": "allowlisted_package_and_unlinked_structured_model_answers",
+    "raw_data_or_linkage_publication_authorized": false,
+    "open_reuse_license_assigned": false
+  }
+}

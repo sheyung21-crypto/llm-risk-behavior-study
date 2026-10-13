@@ -1,0 +1,22 @@
+{
+  "package_version": "2026-10-13-model-answers",
+  "package_prepared": true,
+  "published": true,
+  "publication_ready": true,
+  "repository_url": "https://github.com/sheyung21-crypto/llm-risk-behavior-study",
+  "visibility": "public",
+  "open_reuse_license_assigned": false,
+  "scientific_results_changed": false,
+  "technical_validation": "see internal delivery audit; package verifier is independently runnable",
+  "unresolved": [
+    "project_code_and_document_licenses",
+    "restricted_data_contact_and_access_policy"
+  ],
+  "external_publication_authorized": true,
+  "author_confirmed": true,
+  "dataset_research_use_permission": "author_permission_confirmed_by_user",
+  "raw_data_redistribution_permission": "not_asserted",
+  "model_answer_export_authorized": true,
+  "target_journal": "東吳經濟商學學報",
+  "scope": "allowlisted_public_package_only_no_internal_history_or_linked_human_data"
+}

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="453.54330708661416" height="427" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 427" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>表 S2　H8 逐題對應與誤差</title>
+	<desc>註：各題 N=342；真人及模型答案均為 0–10 分。CI 為逐題 95% 拔靴區間，非同時區間；p 為原分析 Holm 調整結果。MAE 為平均絕對誤差，平均偏差=模型-真人，標準差比=模型 SD／真人 SD。表中統一顯示四位小數，完整精度及其餘摘要保留於隨附 CSV。</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="453.54330708661416" height="427"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-427)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="453.54330708661416" height="427" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="0" y="416" style="font-family: Microsoft JhengHei, sans-serif; font-size: 10.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,832) scale(1,-1)">表 S2　H8 逐題對應與誤差</text>
+			<path d="M 0,400 L 453.543307,400 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="4" y="385" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,770) scale(1,-1)">題號</text>
+			<text x="95.97998046875" y="385" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,770) scale(1,-1)">Spearman ρ</text>
+			<text x="110.991943359375" y="372" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,744) scale(1,-1)">[95% CI]</text>
+			<text x="167.58837890625" y="385" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,770) scale(1,-1)">Pearson r</text>
+			<text x="230.577880859375" y="385" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,770) scale(1,-1)">Holm p</text>
+			<text x="296.277587890625" y="385" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,770) scale(1,-1)">MAE</text>
+			<text x="289.5" y="372" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,744) scale(1,-1)">（分）</text>
+			<text x="344.0" y="385" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,770) scale(1,-1)">平均偏差</text>
+			<text x="352.5" y="372" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,744) scale(1,-1)">（分）</text>
+			<text x="415.54330708661416" y="385" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,770) scale(1,-1)">標準差比</text>
+			<path d="M 0,362 L 453.543307,362 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="4" y="347" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,694) scale(1,-1)">R3</text>
+			<text x="117.408447265625" y="347" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,694) scale(1,-1)">0.7556</text>
+			<text x="81.279296875" y="334" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,668) scale(1,-1)">[0.7008, 0.8037]</text>
+			<text x="178.408447265625" y="347" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,694) scale(1,-1)">0.7698</text>
+			<text x="233.408447265625" y="347" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,694) scale(1,-1)">0.0008</text>
+			<text x="288.408447265625" y="347" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,694) scale(1,-1)">1.0556</text>
+			<text x="351.408447265625" y="347" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,694) scale(1,-1)">0.0673</text>
+			<text x="422.95175435223916" y="347" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,694) scale(1,-1)">1.0582</text>
+			<text x="4" y="309" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,618) scale(1,-1)">R6</text>
+			<text x="117.408447265625" y="309" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,618) scale(1,-1)">0.4588</text>
+			<text x="81.279296875" y="296" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,592) scale(1,-1)">[0.3592, 0.5504]</text>
+			<text x="178.408447265625" y="309" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,618) scale(1,-1)">0.4276</text>
+			<text x="233.408447265625" y="309" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,618) scale(1,-1)">0.0008</text>
+			<text x="288.408447265625" y="309" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,618) scale(1,-1)">2.0088</text>
+			<text x="351.408447265625" y="309" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,618) scale(1,-1)">0.9327</text>
+			<text x="422.95175435223916" y="309" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,618) scale(1,-1)">1.1359</text>
+			<text x="4" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">R8</text>
+			<text x="117.408447265625" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">0.4803</text>
+			<text x="81.279296875" y="258" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,516) scale(1,-1)">[0.3846, 0.5702]</text>
+			<text x="178.408447265625" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">0.4917</text>
+			<text x="233.408447265625" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">0.0008</text>
+			<text x="288.408447265625" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">1.8860</text>
+			<text x="351.408447265625" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">1.0789</text>
+			<text x="422.95175435223916" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">0.8830</text>
+			<text x="4" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">R12</text>
+			<text x="117.408447265625" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">0.4036</text>
+			<text x="81.279296875" y="220" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,440) scale(1,-1)">[0.3029, 0.4989]</text>
+			<text x="178.408447265625" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">0.3770</text>
+			<text x="233.408447265625" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">0.0008</text>
+			<text x="288.408447265625" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">1.4942</text>
+			<text x="351.408447265625" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">0.0556</text>
+			<text x="422.95175435223916" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">0.9092</text>
+			<text x="4" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">R13</text>
+			<text x="117.408447265625" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">0.5538</text>
+			<text x="81.279296875" y="182" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,364) scale(1,-1)">[0.4643, 0.6347]</text>
+			<text x="178.408447265625" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">0.5664</text>
+			<text x="233.408447265625" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">0.0008</text>
+			<text x="288.408447265625" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">2.2485</text>
+			<text x="347.739501953125" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">-0.5819</text>
+			<text x="422.95175435223916" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">0.9491</text>
+			<text x="4" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">R17</text>
+			<text x="117.408447265625" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">0.4331</text>
+			<text x="81.279296875" y="144" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,288) scale(1,-1)">[0.3368, 0.5277]</text>
+			<text x="178.408447265625" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">0.4101</text>
+			<text x="233.408447265625" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">0.0008</text>
+			<text x="288.408447265625" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">1.9737</text>
+			<text x="351.408447265625" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">0.7690</text>
+			<text x="422.95175435223916" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">1.3980</text>
+			<text x="4" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">R24</text>
+			<text x="117.408447265625" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">0.6344</text>
+			<text x="81.279296875" y="106" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,212) scale(1,-1)">[0.5555, 0.7067]</text>
+			<text x="178.408447265625" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">0.6087</text>
+			<text x="233.408447265625" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">0.0008</text>
+			<text x="288.408447265625" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">1.6111</text>
+			<text x="347.739501953125" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">-0.3713</text>
+			<text x="422.95175435223916" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">0.7963</text>
+			<text x="4" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">R41</text>
+			<text x="117.408447265625" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">0.5269</text>
+			<text x="81.279296875" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">[0.4364, 0.6096]</text>
+			<text x="178.408447265625" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">0.5128</text>
+			<text x="233.408447265625" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">0.0008</text>
+			<text x="288.408447265625" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">2.7719</text>
+			<text x="351.408447265625" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">1.6667</text>
+			<text x="422.95175435223916" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">0.8319</text>
+			<path d="M 0,58 L 453.543307,58 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="0" y="42" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,84) scale(1,-1)">註：各題 N=342；真人及模型答案均為 0–10 分。CI 為逐題 95% 拔靴區間，非同時區間；p 為原分析 Holm 調整</text>
+			<text x="0" y="29" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,58) scale(1,-1)">結果。MAE 為平均絕對誤差，平均偏差=模型-真人，標準差比=模型 SD／真人 SD。表中統一顯示四位小數，完</text>
+			<text x="0" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">整精度及其餘摘要保留於隨附 CSV。</text>
+		</g>
+	</g>
+</svg>

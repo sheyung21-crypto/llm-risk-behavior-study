@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="453.54330708661416" height="410" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 410" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>表 S4　分析角色、樣本數與尺度</title>
+	<desc>註：C1 是唯一主要行為條件。C1／C2／C3 與真人結果使用 1–22 的轉換列尺度；Ridge 預測同一原始尺度但本身不受此範圍限制。R2+R3 的 MAE 以同樣本標準化結果計算，不能與列尺度 MAE 直接比較。最後兩列為結果解鎖後的尺度描述，其餘角色與設計在正式結果解鎖前固定。完整尺度對照保留於隨附 CSV。</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="453.54330708661416" height="410"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-410)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="453.54330708661416" height="410" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="0" y="399" style="font-family: Microsoft JhengHei, sans-serif; font-size: 10.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,798) scale(1,-1)">表 S4　分析角色、樣本數與尺度</text>
+			<path d="M 0,383 L 453.543307,383 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="4" y="368" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,736) scale(1,-1)">分析</text>
+			<text x="115" y="368" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,736) scale(1,-1)">角色／性質</text>
+			<text x="233.156005859375" y="368" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,736) scale(1,-1)">N</text>
+			<text x="248" y="368" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,736) scale(1,-1)">指標與解讀</text>
+			<path d="M 0,358 L 453.543307,358 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="4" y="343" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,686) scale(1,-1)">H8 問卷檢查</text>
+			<text x="115" y="343" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,686) scale(1,-1)">診斷／推論</text>
+			<text x="225.220458984375" y="343" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,686) scale(1,-1)">342</text>
+			<text x="248" y="343" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,686) scale(1,-1)">八個逐題相關的平均；向量置換</text>
+			<text x="4" y="318" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,636) scale(1,-1)">Benchmark-0</text>
+			<text x="115" y="318" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,636) scale(1,-1)">診斷／描述</text>
+			<text x="225.220458984375" y="318" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,636) scale(1,-1)">342</text>
+			<text x="248" y="318" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,636) scale(1,-1)">逐題相關平均及真人 H8 平均相關</text>
+			<text x="4" y="293" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,586) scale(1,-1)">K 穩定性</text>
+			<text x="115" y="293" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,586) scale(1,-1)">診斷／描述</text>
+			<text x="230.14697265625" y="293" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,586) scale(1,-1)">30</text>
+			<text x="248" y="293" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,586) scale(1,-1)">單次 ICC；平均信度換算</text>
+			<text x="4" y="268" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,536) scale(1,-1)">C1 排序</text>
+			<text x="115" y="268" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,536) scale(1,-1)">主要／推論</text>
+			<text x="225.220458984375" y="268" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,536) scale(1,-1)">342</text>
+			<text x="248" y="268" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,536) scale(1,-1)">Spearman ρ；95% CI 與置換</text>
+			<text x="4" y="243" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,486) scale(1,-1)">C1 尺度</text>
+			<text x="115" y="243" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,486) scale(1,-1)">次要／描述</text>
+			<text x="225.220458984375" y="243" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,486) scale(1,-1)">342</text>
+			<text x="248" y="243" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,486) scale(1,-1)">Pearson r、MAE、偏差、SD 比</text>
+			<text x="4" y="218" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,436) scale(1,-1)">C2 嚴格條件</text>
+			<text x="115" y="218" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,436) scale(1,-1)">敏感度／推論</text>
+			<text x="225.220458984375" y="218" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,436) scale(1,-1)">342</text>
+			<text x="248" y="218" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,436) scale(1,-1)">條件指標及相對 C1 的配對差異</text>
+			<text x="4" y="193" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,386) scale(1,-1)">C3 近端條件</text>
+			<text x="115" y="193" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,386) scale(1,-1)">診斷／推論</text>
+			<text x="225.220458984375" y="193" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,386) scale(1,-1)">342</text>
+			<text x="248" y="193" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,386) scale(1,-1)">條件指標及相對 C1 的配對差異</text>
+			<text x="4" y="168" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,336) scale(1,-1)">Ridge 折外預測</text>
+			<text x="115" y="168" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,336) scale(1,-1)">背景／描述</text>
+			<text x="225.220458984375" y="168" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,336) scale(1,-1)">342</text>
+			<text x="248" y="168" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,336) scale(1,-1)">相關、列尺度 MAE、R²</text>
+			<text x="4" y="143" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,286) scale(1,-1)">R2+R3</text>
+			<text x="115" y="143" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,286) scale(1,-1)">背景／描述</text>
+			<text x="225.220458984375" y="143" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,286) scale(1,-1)">342</text>
+			<text x="248" y="143" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,286) scale(1,-1)">相關、標準化尺度 MAE、R²</text>
+			<text x="4" y="118" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,236) scale(1,-1)">真人重測</text>
+			<text x="115" y="118" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,236) scale(1,-1)">背景／描述</text>
+			<text x="230.14697265625" y="118" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,236) scale(1,-1)">44</text>
+			<text x="248" y="118" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,236) scale(1,-1)">Pearson r</text>
+			<text x="4" y="93" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">常數中位數</text>
+			<text x="115" y="93" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">事後／描述</text>
+			<text x="225.220458984375" y="93" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">342</text>
+			<text x="248" y="93" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">列尺度 MAE；相對誤差比</text>
+			<text x="4" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">以真人 SD 標準化 MAE</text>
+			<text x="115" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">事後／描述</text>
+			<text x="225.220458984375" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">342</text>
+			<text x="248" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">MAE／真人 SD</text>
+			<path d="M 0,58 L 453.543307,58 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="0" y="42" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,84) scale(1,-1)">註：C1 是唯一主要行為條件。C1／C2／C3 與真人結果使用 1–22 的轉換列尺度；Ridge 預測同一原始尺度但本身</text>
+			<text x="0" y="29" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,58) scale(1,-1)">不受此範圍限制。R2+R3 的 MAE 以同樣本標準化結果計算，不能與列尺度 MAE 直接比較。最後兩列為結果解鎖</text>
+			<text x="0" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">後的尺度描述，其餘角色與設計在正式結果解鎖前固定。完整尺度對照保留於隨附 CSV。</text>
+		</g>
+	</g>
+</svg>

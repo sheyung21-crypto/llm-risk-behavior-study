@@ -1,0 +1,14 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "reportlab": "4.4.9",
+    "pypdf": "6.10.0",
+    "pypdfium2": "5.13.0",
+    "Pillow": "12.3.0",
+    "charset-normalizer": "3.5.1"
+  },
+  "font_name": "Microsoft JhengHei",
+  "font_sha256": "1fd5fc7046e0eea753988ee06d1a5a731df68475614e2174fbba9b4800f392ac",
+  "font_distributed": false,
+  "fresh_install_tested": false
+}

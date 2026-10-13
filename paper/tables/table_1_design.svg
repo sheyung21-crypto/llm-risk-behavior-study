@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="453.54330708661416" height="185" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 185" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>表 1　問卷資訊條件與分析角色</title>
+	<desc>註：三條件均為 342 人、K=1；每人各答兩張表，每個條件共 684 次作答。H8 為八題保留問卷；它們僅在獨立 Stage 1 中不提供給模型，在 C1／C2／C3 中提供真人答案。R48 為假想中獎後投入彩券金額；R50 為有收入風險的轉職選擇；R49 為放棄彩券所需的確定金額。</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="453.54330708661416" height="185"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-185)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="453.54330708661416" height="185" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="0" y="174" style="font-family: Microsoft JhengHei, sans-serif; font-size: 10.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,348) scale(1,-1)">表 1　問卷資訊條件與分析角色</text>
+			<path d="M 0,158 L 453.543307,158 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="4" y="143" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,286) scale(1,-1)">條件</text>
+			<text x="89" y="143" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,286) scale(1,-1)">問卷輸入</text>
+			<text x="309" y="143" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,286) scale(1,-1)">分析角色</text>
+			<text x="431.54330708661416" y="143" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,286) scale(1,-1)">題數</text>
+			<path d="M 0,133 L 453.543307,133 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="4" y="118" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,236) scale(1,-1)">C1：廣泛問卷</text>
+			<text x="89" y="118" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,236) scale(1,-1)">核准的風險問卷回答，含 H8、R48、R50</text>
+			<text x="309" y="118" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,236) scale(1,-1)">主要條件</text>
+			<text x="439.11068989911416" y="118" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,236) scale(1,-1)">46</text>
+			<text x="4" y="93" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">C2：嚴格問卷</text>
+			<text x="89" y="93" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">C1 移除 R48、R50</text>
+			<text x="309" y="93" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">敏感度分析</text>
+			<text x="439.11068989911416" y="93" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">44</text>
+			<text x="4" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">C3：近端資訊</text>
+			<text x="89" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">C1 加入 R49</text>
+			<text x="309" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">診斷分析</text>
+			<text x="439.11068989911416" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">47</text>
+			<path d="M 0,58 L 453.543307,58 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="0" y="42" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,84) scale(1,-1)">註：三條件均為 342 人、K=1；每人各答兩張表，每個條件共 684 次作答。H8 為八題保留問卷；它們僅在獨立</text>
+			<text x="0" y="29" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,58) scale(1,-1)">Stage 1 中不提供給模型，在 C1／C2／C3 中提供真人答案。R48 為假想中獎後投入彩券金額；R50 為有收入風險</text>
+			<text x="0" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">的轉職選擇；R49 為放棄彩券所需的確定金額。</text>
+		</g>
+	</g>
+</svg>

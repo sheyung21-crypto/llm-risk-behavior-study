@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="453.54330708661416" height="327" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 327" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>圖 2　個體排序對應與條件差異</title>
+	<desc>註：點為估計值，水平線及方括號為既有 95% 拔靴信賴區間。C1 為唯一主要條件；C2 為敏感度分析，C3 為診斷。B 使用受試者配對相關差異區間，不由 A 的區間重疊推論差異。虛線為零；差異區間包含零不表示條件等效。</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="453.54330708661416" height="327"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-327)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="310" style="font-family: Microsoft JhengHei, sans-serif; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,620) scale(1,-1)">A　各條件與真人的排序對應</text>
+			<text x="424.01205708661416" y="310" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,620) scale(1,-1)">N=342</text>
+			<path d="M 103,191 L 103,291 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; stroke-dasharray: 2, 2;"/>
+			<text x="0" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">C1　主要</text>
+			<path d="M 187.774884,274 L 253.769753,274 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 187.774884,271 L 187.774884,277 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 253.769753,271 L 253.769753,277 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<circle cx="221.46578322738054" cy="274" r="3" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="362.10605122723916" y="271" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">0.3404 [0.2436, 0.4332]</text>
+			<text x="0" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">C2　敏感度</text>
+			<path d="M 172.711668,236 L 242.764234,236 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 172.711668,233 L 172.711668,239 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 242.764234,233 L 242.764234,239 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<rect x="205.1682147061416" y="233" width="6.0" height="6" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="362.10605122723916" y="233" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,466) scale(1,-1)">0.3022 [0.2003, 0.4016]</text>
+			<text x="0" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">C3　診斷</text>
+			<path d="M 174.982778,198 L 246.897173,198 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 174.982778,195 L 174.982778,201 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 246.897173,195 L 246.897173,201 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<polygon points="211.2942 202, 215.2942 195, 207.2942 195" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="362.10605122723916" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">0.3112 [0.2068, 0.4135]</text>
+			<path d="M 103,177 L 277,177 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 103,177 L 103,174 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="100.391845703125" y="162" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,324) scale(1,-1)">0</text>
+			<path d="M 137.8,177 L 137.8,174 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="131.54658203125" y="162" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,324) scale(1,-1)">0.1</text>
+			<path d="M 172.6,177 L 172.6,174 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="166.34658203125002" y="162" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,324) scale(1,-1)">0.2</text>
+			<path d="M 207.4,177 L 207.4,174 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="201.14658203124998" y="162" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,324) scale(1,-1)">0.3</text>
+			<path d="M 242.2,177 L 242.2,174 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="235.94658203125002" y="162" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,324) scale(1,-1)">0.4</text>
+			<path d="M 277,177 L 277,174 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="270.74658203125" y="162" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,324) scale(1,-1)">0.5</text>
+			<text x="163.165283203125" y="146" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,292) scale(1,-1)">Spearman ρ</text>
+			<text x="0" y="125" style="font-family: Microsoft JhengHei, sans-serif; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,250) scale(1,-1)">B　相對於 C1 的配對相關差異</text>
+			<path d="M 219,47 L 219,109 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; stroke-dasharray: 2, 2;"/>
+			<text x="0" y="95" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,190) scale(1,-1)">C2 - C1</text>
+			<path d="M 152.299044,98 L 240.21589,98 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 152.299044,95 L 152.299044,101 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 240.21589,95 L 240.21589,101 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<rect x="193.83738579793516" y="95" width="6.0" height="6" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="354.76816060223916" y="95" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,190) scale(1,-1)">-0.0382 [-0.1150, 0.0366]</text>
+			<text x="0" y="59" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,118) scale(1,-1)">C3 - C1</text>
+			<path d="M 130.165605,62 L 273.900089,62 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 130.165605,59 L 130.165605,65 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 273.900089,59 L 273.900089,65 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<polygon points="202.0473 66, 206.0473 59, 198.0473 59" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="354.76816060223916" y="59" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,118) scale(1,-1)">-0.0292 [-0.1532, 0.0947]</text>
+			<path d="M 103,41 L 277,41 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 103,41 L 103,38 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="94.80419921875" y="26" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,52) scale(1,-1)">-0.2</text>
+			<path d="M 161,41 L 161,38 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="152.80419921875" y="26" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,52) scale(1,-1)">-0.1</text>
+			<path d="M 219,41 L 219,38 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="216.391845703125" y="26" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,52) scale(1,-1)">0</text>
+			<path d="M 277,41 L 277,38 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<text x="270.74658203125" y="26" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,52) scale(1,-1)">0.1</text>
+			<text x="144.86572265625" y="10" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,20) scale(1,-1)">Δρ（其他條件 - C1）</text>
+		</g>
+	</g>
+</svg>

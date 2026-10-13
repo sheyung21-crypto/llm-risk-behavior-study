@@ -1,0 +1,11 @@
+{
+  "source": "paper/revisions/journal_figures_20260909/build_journal_assets.py",
+  "source_sha256": "1f0315ec87b3505c9902c8610bf781b2e0d99a394aa5ec2209f7192d03264d9f",
+  "change_scope": [
+    "public aggregate path adapter",
+    "explicit font parameter",
+    "exclusive external output directory",
+    "remove internal Git/audit/manuscript dependencies"
+  ],
+  "statistical_or_drawing_functions_changed": false
+}

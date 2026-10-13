@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="453.54330708661416" height="583" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 583" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>圖 1　研究設計、樣本與分析關係</title>
+	<desc>註：資料來自偏好調查模組（Falk 等，2023）。54 個風險問卷欄位及行為結果完整者納入；15 人缺問卷、12 人缺行為。C2／C3 均為 K=1。K 是一份兩表平均分數的重複次數。H8 為八題保留問卷；模型 H8 不回填 C1／C2／C3。R48 為假想中獎後投入彩券的金額，R50 為有收入風險的轉職選擇，R49 為放棄彩券所需的確定金額。彩券為各半機率得 1,000 或 0 點；List 1 的確定點數每列增加 50，List 2 為固定擾動最多 5 點的重建表。全選確定選項記 1，全選彩券記 22；分數越高表示越晚轉向安全選項。圖示為資料關係；實際先完成 C1／C3，再補 Stage 1 與 C2／K。正式結果隔離不表示資料準備從未讀取真人結果。</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="453.54330708661416" height="583"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-583)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="453.54330708661416" height="583" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,0,116)">
+				<g transform="">
+					<rect x="0" y="423" width="133" height="40" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="33.92553710937499" y="446.35" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,892) scale(1,-1)">原始樣本 409 人</text>
+					<text x="21.499999999999993" y="433.35" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,866) scale(1,-1)">波昂學生：問卷與實驗</text>
+					<rect x="160" y="423" width="133" height="40" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="193.925537109375" y="446.35" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,892) scale(1,-1)">完整案例 382 人</text>
+					<text x="181.5" y="433.35" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,866) scale(1,-1)">問卷欄位與行為均完整</text>
+					<rect x="320" y="423" width="133.54330708661416" height="40" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="349.6971906526821" y="439.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,879) scale(1,-1)">確認性樣本 342 人</text>
+					<path d="M 133,443 L 160,443 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="160 443, 156 445, 156 441" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<path d="M 293,443 L 320,443 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="320 443, 316 445, 316 441" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<text x="162" y="408" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,816) scale(1,-1)">另 40 人分派至技術先導，排除於正式分析</text>
+					<path d="M 387,423 L 387,389 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 387,389 L 153,389 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 153,389 L 153,370 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="153 370, 151 374, 155 374" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<text x="0" y="386" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,772) scale(1,-1)">單一真人問卷</text>
+					<path d="M 153,379 L 49,379 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 49,379 L 49,370 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="49 370, 47 374, 51 374" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<path d="M 153,379 L 152,379 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 152,379 L 152,370 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="152 370, 150 374, 154 374" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<path d="M 153,379 L 255,379 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 255,379 L 255,370 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="255 370, 253 374, 257 374" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<rect x="0" y="316" width="98" height="54" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="24.260986328124996" y="352.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,705) scale(1,-1)">C1 廣泛問卷</text>
+					<text x="15.658691406249993" y="339.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,679) scale(1,-1)">46 題；主要條件</text>
+					<text x="40.27685546875" y="326.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,653) scale(1,-1)">K=1</text>
+					<rect x="103" y="316" width="98" height="54" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="127.260986328125" y="352.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,705) scale(1,-1)">C2 嚴格問卷</text>
+					<text x="121.16357421875" y="339.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,679) scale(1,-1)">移除 R48／R50</text>
+					<text x="123.15869140625" y="326.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,653) scale(1,-1)">44 題；敏感度</text>
+					<rect x="206" y="316" width="98" height="54" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="230.260986328125" y="352.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,705) scale(1,-1)">C3 近端資訊</text>
+					<text x="236.769287109375" y="339.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,679) scale(1,-1)">加入 R49</text>
+					<text x="230.65869140625" y="326.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,653) scale(1,-1)">47 題；診斷</text>
+					<rect x="326" y="311" width="127.54330708661416" height="63" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="356.0209211214321" y="352.455" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,704) scale(1,-1)">Stage 1 問卷檢查</text>
+					<text x="348.44028147299457" y="339.455" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,678) scale(1,-1)">38 題輸入 → 預測 H8</text>
+					<text x="337.22543772299457" y="326.455" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,652) scale(1,-1)">與保留的 8 題真人答案比較</text>
+					<path d="M 387,389 L 390,389 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 390,389 L 390,374 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="390 374, 388 378, 392 378" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<path d="M 49,316 L 49,298 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 49,298 L 152,298 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 152,298 L 152,283 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="152 283, 150 287, 154 287" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<path d="M 152,316 L 152,298 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 152,298 L 152,298 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 152,298 L 152,283 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="152 283, 150 287, 154 287" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<path d="M 255,316 L 255,298 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 255,298 L 152,298 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 152,298 L 152,283 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="152 283, 150 287, 154 287" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<rect x="0" y="208" width="304" height="75" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="85.28222656249999" y="261.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,523) scale(1,-1)">兩張風險選擇表（List 1／List 2）</text>
+					<text x="95.03369140625" y="248.85000000000002" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,497) scale(1,-1)">每張 21 列：彩券或確定點數</text>
+					<text x="89.0" y="235.85000000000002" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,471) scale(1,-1)">記錄由彩券轉向確定選項的列數</text>
+					<text x="89.995361328125" y="222.85000000000002" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,445) scale(1,-1)">兩表平均 → 個人分數（1–22）</text>
+					<rect x="326" y="208" width="113.54330708661416" height="75" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="356.3495344026821" y="261.85" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,523) scale(1,-1)">K 穩定性診斷</text>
+					<text x="341.2081769808071" y="248.85000000000002" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,497) scale(1,-1)">30 人的 C1 重複 5 次</text>
+					<text x="351.2716535433071" y="235.85000000000002" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,471) scale(1,-1)">評估生成穩定性</text>
+					<text x="345.9235090120571" y="222.85000000000002" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,445) scale(1,-1)">主要分數仍為 K=1</text>
+					<path d="M 304,234 L 326,234 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="326 234, 322 236, 322 232" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<text x="306" y="243" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,486) scale(1,-1)">C1</text>
+					<rect x="0" y="130" width="304" height="54" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="95.91259765625" y="160.35" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,320) scale(1,-1)">盲態計分與 H8、K 診斷封存</text>
+					<text x="102.5" y="147.35" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,294) scale(1,-1)">核准後解鎖真人行為結果</text>
+					<path d="M 152,208 L 152,184 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="152 184, 150 188, 154 188" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<path d="M 390,208 L 390,194 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 390,194 L 276,194 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 276,194 L 276,184 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="276 184, 274 188, 278 188" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<path d="M 390,311 L 390,299 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 390,299 L 451.543307,299 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 451.543307,299 L 451.543307,195 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 451.543307,195 L 292,195 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 292,195 L 292,184 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="292 184, 290 188, 294 188" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<rect x="326" y="123" width="127.54330708661416" height="61" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="353.5995344026821" y="163.455" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,326) scale(1,-1)">真人行為 x_risk_av</text>
+					<text x="346.2716535433071" y="150.455" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,300) scale(1,-1)">原實驗兩表平均轉換列</text>
+					<text x="359.3216535433071" y="137.455" style="font-family: Microsoft JhengHei, sans-serif; font-size: 8.7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,274) scale(1,-1)">僅於解鎖後合併</text>
+					<rect x="0" y="53" width="304" height="53" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+					<text x="84.49999999999999" y="89.35" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,178) scale(1,-1)">同一人的模型分數與真人行為配對</text>
+					<text x="100.260986328125" y="76.35" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,152) scale(1,-1)">主要：C1 排序與尺度誤差</text>
+					<text x="86.77197265624999" y="63.349999999999994" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,126) scale(1,-1)">敏感度：C2；任務近端診斷：C3</text>
+					<path d="M 152,130 L 152,106 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="152 106, 150 110, 154 110" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<path d="M 326,151 L 313,151 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 313,151 L 313,79 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<path d="M 313,79 L 304,79 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<polygon points="304 79, 308 81, 308 77" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+					<text x="0" y="24" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,48) scale(1,-1)">統計參考另列：嶺迴歸（Ridge）、原研究 R2+R3 量尺組合。</text>
+				</g>
+			</g>
+			<text x="0" y="99" style="font-family: Microsoft JhengHei, sans-serif; font-size: 10.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,198) scale(1,-1)">圖 1　研究設計、樣本與分析關係</text>
+			<text x="0" y="83" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,166) scale(1,-1)">註：資料來自偏好調查模組（Falk 等，2023）。54 個風險問卷欄位及行為結果完整者納入；15 人缺問卷、12 人</text>
+			<text x="0" y="70" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,140) scale(1,-1)">缺行為。C2／C3 均為 K=1。K 是一份兩表平均分數的重複次數。H8 為八題保留問卷；模型 H8 不回填 C1／C2／</text>
+			<text x="0" y="57" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,114) scale(1,-1)">C3。R48 為假想中獎後投入彩券的金額，R50 為有收入風險的轉職選擇，R49 為放棄彩券所需的確定金額。彩券</text>
+			<text x="0" y="44" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,88) scale(1,-1)">為各半機率得 1,000 或 0 點；List 1 的確定點數每列增加 50，List 2 為固定擾動最多 5 點的重建表。全選確定選項</text>
+			<text x="0" y="31" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,62) scale(1,-1)">記 1，全選彩券記 22；分數越高表示越晚轉向安全選項。圖示為資料關係；實際先完成 C1／C3，再補 Stage 1 與</text>
+			<text x="0" y="18" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,36) scale(1,-1)">C2／K。正式結果隔離不表示資料準備從未讀取真人結果。</text>
+		</g>
+	</g>
+</svg>

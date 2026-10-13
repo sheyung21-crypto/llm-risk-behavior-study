@@ -1,0 +1,172 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://llm-risk-behavior-study.local/schemas/heldout_response.schema.json",
+  "title": "Stage 1 held-out questionnaire responses",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "responses"
+  ],
+  "properties": {
+    "responses": {
+      "type": "array",
+      "minItems": 8,
+      "maxItems": 8,
+      "prefixItems": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "R_item",
+            "response"
+          ],
+          "properties": {
+            "R_item": {
+              "type": "string",
+              "const": "R3"
+            },
+            "response": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 10
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "R_item",
+            "response"
+          ],
+          "properties": {
+            "R_item": {
+              "type": "string",
+              "const": "R6"
+            },
+            "response": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 10
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "R_item",
+            "response"
+          ],
+          "properties": {
+            "R_item": {
+              "type": "string",
+              "const": "R8"
+            },
+            "response": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 10
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "R_item",
+            "response"
+          ],
+          "properties": {
+            "R_item": {
+              "type": "string",
+              "const": "R12"
+            },
+            "response": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 10
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "R_item",
+            "response"
+          ],
+          "properties": {
+            "R_item": {
+              "type": "string",
+              "const": "R13"
+            },
+            "response": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 10
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "R_item",
+            "response"
+          ],
+          "properties": {
+            "R_item": {
+              "type": "string",
+              "const": "R17"
+            },
+            "response": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 10
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "R_item",
+            "response"
+          ],
+          "properties": {
+            "R_item": {
+              "type": "string",
+              "const": "R24"
+            },
+            "response": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 10
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "R_item",
+            "response"
+          ],
+          "properties": {
+            "R_item": {
+              "type": "string",
+              "const": "R41"
+            },
+            "response": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 10
+            }
+          }
+        }
+      ],
+      "items": false
+    }
+  }
+}

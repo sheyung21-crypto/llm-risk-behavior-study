@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="453.54330708661416" height="288" preserveAspectRatio="xMinYMin meet" viewBox="0 0 453 288" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>表 S1　統計參考的資訊條件與尺度</title>
+	<desc>註：Ridge 為嶺迴歸；R2 為假想彩券與確定金額選擇，R3 為一般風險意願，兩題組合沿用原標準化與權重。ρ 為 Spearman 相關，真人重測則為 Pearson r。前三列 N=342。R2+R3 的標準化 MAE 不與「列」直接相比。不同資訊條件不構成公平排名，未補造 CI 或模型差異檢定。</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="453.54330708661416" height="288"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-288)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="453.54330708661416" height="288" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="0" y="277" style="font-family: Microsoft JhengHei, sans-serif; font-size: 10.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,554) scale(1,-1)">表 S1　統計參考的資訊條件與尺度</text>
+			<path d="M 0,261 L 453.543307,261 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="4" y="246" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,492) scale(1,-1)">方法／角色</text>
+			<text x="86" y="246" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,492) scale(1,-1)">資訊及資料來源</text>
+			<text x="285" y="246" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,492) scale(1,-1)">結果</text>
+			<path d="M 0,236 L 453.543307,236 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="4" y="221" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,442) scale(1,-1)">Ridge</text>
+			<text x="4" y="208" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,416) scale(1,-1)">監督式參考</text>
+			<text x="86" y="221" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,442) scale(1,-1)">巢狀交叉驗證；訓練折使用真人結果，受評估者</text>
+			<text x="86" y="208" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,416) scale(1,-1)">採折外預測。</text>
+			<text x="285" y="221" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,442) scale(1,-1)">ρ = 0.2948</text>
+			<text x="285" y="208" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,416) scale(1,-1)">MAE = 2.2170 列</text>
+			<text x="285" y="195" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,390) scale(1,-1)">R² = 0.0662</text>
+			<text x="4" y="170" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,340) scale(1,-1)">R2+R3</text>
+			<text x="4" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">量尺背景</text>
+			<text x="86" y="170" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,340) scale(1,-1)">既有選題及權重來自同一原始研究；非獨立外部</text>
+			<text x="86" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">測試。</text>
+			<text x="285" y="170" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,340) scale(1,-1)">ρ = 0.4319</text>
+			<text x="285" y="157" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,314) scale(1,-1)">MAE = 0.7571（標準化）</text>
+			<text x="285" y="144" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,288) scale(1,-1)">R² = -0.0763</text>
+			<text x="4" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">常數中位數</text>
+			<text x="4" y="106" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,212) scale(1,-1)">事後描述</text>
+			<text x="86" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">使用同樣本真人中位數；無個體排序能力及折外</text>
+			<text x="86" y="106" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,212) scale(1,-1)">驗證。</text>
+			<text x="285" y="119" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,238) scale(1,-1)">MAE = 2.3004 列</text>
+			<text x="285" y="106" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,212) scale(1,-1)">ρ 不適用</text>
+			<text x="4" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">真人重測</text>
+			<text x="4" y="68" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">背景參考</text>
+			<text x="86" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">另一份 44 人資料；測量間隔與樣本不同。</text>
+			<text x="285" y="81" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">Pearson r = 0.5890</text>
+			<path d="M 0,58 L 453.543307,58 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="0" y="42" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,84) scale(1,-1)">註：Ridge 為嶺迴歸；R2 為假想彩券與確定金額選擇，R3 為一般風險意願，兩題組合沿用原標準化與權重。ρ 為</text>
+			<text x="0" y="29" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,58) scale(1,-1)">Spearman 相關，真人重測則為 Pearson r。前三列 N=342。R2+R3 的標準化 MAE 不與「列」直接相比。不同資</text>
+			<text x="0" y="16" style="font-family: Microsoft JhengHei, sans-serif; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,32) scale(1,-1)">訊條件不構成公平排名，未補造 CI 或模型差異檢定。</text>
+		</g>
+	</g>
+</svg>

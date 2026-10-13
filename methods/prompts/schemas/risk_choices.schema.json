@@ -1,0 +1,461 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://llm-risk-behavior-study.local/schemas/risk_choices.schema.json",
+  "title": "Stage 2 lottery-versus-safe choices",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "choices"
+  ],
+  "properties": {
+    "choices": {
+      "type": "array",
+      "minItems": 21,
+      "maxItems": 21,
+      "prefixItems": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 1
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 2
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 3
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 4
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 5
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 6
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 7
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 8
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 9
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 10
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 11
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 12
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 13
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 14
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 15
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 16
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 17
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 18
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 19
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 20
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "row",
+            "choice"
+          ],
+          "properties": {
+            "row": {
+              "type": "integer",
+              "const": 21
+            },
+            "choice": {
+              "type": "string",
+              "enum": [
+                "LOTTERY",
+                "SAFE"
+              ]
+            }
+          }
+        }
+      ],
+      "items": false
+    }
+  }
+}

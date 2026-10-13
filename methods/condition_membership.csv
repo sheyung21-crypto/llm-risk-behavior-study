@@ -1,0 +1,163 @@
+variable_name,R_item,condition,included,reason,rule_id
+v_94,R3,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_95,R4,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_96,R5,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_97,R6,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_98,R7,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_99,R8,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_100,R9,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_101,R10,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_102,R11,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_103,R45,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_104,R46,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_105,R47,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_106,R48,C1_broad_condition,true,One-shot explicit-probability scenario is retained in this non-strict condition.,C1_broad_condition-retain-one-shot-probability
+v_107,R49,C1_broad_condition,false,Certainty-equivalent question uses the same 50/50 lottery-versus-safe-payment tradeoff.,C1_broad_condition-exclude-certainty-equivalent
+v_108,R50,C1_broad_condition,true,One-shot explicit-probability scenario is retained in this non-strict condition.,C1_broad_condition-retain-one-shot-probability
+v_109,R2,C1_broad_condition,false,Full 31-row 50/50 lottery-versus-safe-payment list is structurally proximal to the target MPL.,C1_broad_condition-exclude-full-hypothetical-list
+v_110,R1,C1_broad_condition,false,Adaptive 50/50 lottery-versus-sure-payment task is structurally proximal to the target MPL.,C1_broad_condition-exclude-adaptive-staircase
+v_111,R12,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_112,R13,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_114,R14,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_115,UNNUMBERED_G1,C1_broad_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_116,UNNUMBERED_G1,C1_broad_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_117,R15,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_118,R16,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_119,R17,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_120,R18,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_122,R19,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_123,R20,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_124,R21,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_125,R22,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_126,R23,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_127,UNNUMBERED_G1,C1_broad_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_128,R24,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_129,R25,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_130,R26,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_131,R27,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_132,UNNUMBERED_G1,C1_broad_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_133,R28,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_134,R29,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_135,R31,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_136,R32,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_137,R33,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_138,R34,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_139,R35,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_140,R36,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_141,UNNUMBERED_G1,C1_broad_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_142,R37,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_143,R38,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_144,R39,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_145,R40,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_146,R41,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_147,R42,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_148,R43,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_149,R44,C1_broad_condition,true,Item is not excluded by this condition's predeclared structural rule.,C1_broad_condition-default-include
+v_94,R3,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_95,R4,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_96,R5,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_97,R6,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_98,R7,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_99,R8,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_100,R9,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_101,R10,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_102,R11,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_103,R45,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_104,R46,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_105,R47,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_106,R48,C2_strict_condition,false,Strict sensitivity excludes one-shot scenarios with explicit monetary probabilities.,C2_strict_condition-exclude-explicit-probability
+v_107,R49,C2_strict_condition,false,Certainty-equivalent question uses the same 50/50 lottery-versus-safe-payment tradeoff.,C2_strict_condition-exclude-certainty-equivalent
+v_108,R50,C2_strict_condition,false,Strict sensitivity excludes one-shot scenarios with explicit monetary probabilities.,C2_strict_condition-exclude-explicit-probability
+v_109,R2,C2_strict_condition,false,Full 31-row 50/50 lottery-versus-safe-payment list is structurally proximal to the target MPL.,C2_strict_condition-exclude-full-hypothetical-list
+v_110,R1,C2_strict_condition,false,Adaptive 50/50 lottery-versus-sure-payment task is structurally proximal to the target MPL.,C2_strict_condition-exclude-adaptive-staircase
+v_111,R12,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_112,R13,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_114,R14,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_115,UNNUMBERED_G1,C2_strict_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_116,UNNUMBERED_G1,C2_strict_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_117,R15,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_118,R16,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_119,R17,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_120,R18,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_122,R19,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_123,R20,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_124,R21,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_125,R22,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_126,R23,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_127,UNNUMBERED_G1,C2_strict_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_128,R24,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_129,R25,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_130,R26,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_131,R27,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_132,UNNUMBERED_G1,C2_strict_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_133,R28,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_134,R29,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_135,R31,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_136,R32,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_137,R33,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_138,R34,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_139,R35,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_140,R36,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_141,UNNUMBERED_G1,C2_strict_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_142,R37,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_143,R38,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_144,R39,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_145,R40,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_146,R41,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_147,R42,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_148,R43,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_149,R44,C2_strict_condition,true,Item is not excluded by this condition's predeclared structural rule.,C2_strict_condition-default-include
+v_94,R3,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_95,R4,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_96,R5,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_97,R6,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_98,R7,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_99,R8,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_100,R9,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_101,R10,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_102,R11,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_103,R45,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_104,R46,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_105,R47,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_106,R48,C3_task_proximal_condition,true,One-shot explicit-probability scenario is retained in this non-strict condition.,C3_task_proximal_condition-retain-one-shot-probability
+v_107,R49,C3_task_proximal_condition,true,C3 adds R49 back to isolate multi-step/list exposure while retaining a one-shot certainty equivalent.,C3-add-back-R49
+v_108,R50,C3_task_proximal_condition,true,One-shot explicit-probability scenario is retained in this non-strict condition.,C3_task_proximal_condition-retain-one-shot-probability
+v_109,R2,C3_task_proximal_condition,false,Full 31-row 50/50 lottery-versus-safe-payment list is structurally proximal to the target MPL.,C3_task_proximal_condition-exclude-full-hypothetical-list
+v_110,R1,C3_task_proximal_condition,false,Adaptive 50/50 lottery-versus-sure-payment task is structurally proximal to the target MPL.,C3_task_proximal_condition-exclude-adaptive-staircase
+v_111,R12,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_112,R13,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_114,R14,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_115,UNNUMBERED_G1,C3_task_proximal_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_116,UNNUMBERED_G1,C3_task_proximal_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_117,R15,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_118,R16,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_119,R17,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_120,R18,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_122,R19,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_123,R20,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_124,R21,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_125,R22,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_126,R23,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_127,UNNUMBERED_G1,C3_task_proximal_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_128,R24,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_129,R25,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_130,R26,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_131,R27,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_132,UNNUMBERED_G1,C3_task_proximal_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_133,R28,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_134,R29,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_135,R31,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_136,R32,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_137,R33,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_138,R34,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_139,R35,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_140,R36,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_141,UNNUMBERED_G1,C3_task_proximal_condition,false,"Excluded from Goal 5 main human Pilot inputs because only DTA-label-derived wording is available, not a verifiable complete original question.",goal5-exclude-source-incomplete-wording
+v_142,R37,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_143,R38,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_144,R39,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_145,R40,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_146,R41,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_147,R42,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_148,R43,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include
+v_149,R44,C3_task_proximal_condition,true,Item is not excluded by this condition's predeclared structural rule.,C3_task_proximal_condition-default-include

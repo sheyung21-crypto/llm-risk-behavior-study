@@ -1,0 +1,17 @@
+You previously completed a questionnaire.
+The responses shown below are your own previous responses.
+Treat these responses as your own answers and continue answering
+the remaining questions as the same respondent.
+
+Previous questionnaire answers:
+[[PROFILE_JSON]]
+
+Now answer each of the following held-out questionnaire items as that same respondent. The held-out items contain the question and response scale, but no previous answer.
+
+Held-out questionnaire items:
+[[HELDOUT_QUESTIONS_JSON]]
+
+Return exactly one JSON object that conforms to the schema below. Return all eight items exactly once, in the order shown. Do not add prose, Markdown, a code fence, or an explanation.
+
+Output JSON Schema:
+[[OUTPUT_SCHEMA_JSON]]

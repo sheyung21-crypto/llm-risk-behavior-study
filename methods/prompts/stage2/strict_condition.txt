@@ -1,0 +1,14 @@
+Below are answers from a questionnaire you completed earlier. Continue answering as the same respondent.
+
+Previous questionnaire answers:
+[[PROFILE_JSON]]
+
+For each of the 21 rows below, choose either LOTTERY or SAFE. The lottery pays 1000 points with probability 0.5 and 0 points with probability 0.5. The safe payment is shown separately for every row. There is no correct or recommended choice in any row. Consider every row independently; you are not required to use a single switching point.
+
+Decision rows:
+[[CHOICE_ROWS_JSON]]
+
+Return exactly one JSON object that conforms to the schema below. Return all 21 rows exactly once, in row order from 1 through 21. Use only LOTTERY or SAFE. Do not add prose, Markdown, a code fence, or an explanation.
+
+Output JSON Schema:
+[[OUTPUT_SCHEMA_JSON]]

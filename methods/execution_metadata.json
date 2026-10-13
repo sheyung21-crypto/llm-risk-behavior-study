@@ -1,0 +1,72 @@
+{
+  "source": "data/aggregate/frozen_results.json",
+  "model": "gpt-5.6-terra",
+  "reasoning": "medium",
+  "speed": "standard",
+  "fast_mode": false,
+  "paid_api": false,
+  "authentication": "ChatGPT_account",
+  "temperature": "platform_managed_not_user_configurable",
+  "main_K": 1,
+  "one_person_per_session": true,
+  "fresh_session_and_workspace_per_job": true,
+  "pre_session_attempt_limit": 3,
+  "invalid_output_format_retries": 1,
+  "retry_prompt_policy": "byte_identical",
+  "configured_cli_version": "0.153.3",
+  "observed_execution_summary": {
+    "adjudicated_user_interruptions": 1,
+    "attempt_artifact_counts": {
+      "adjudication.json": 1,
+      "attempt.json": 2650,
+      "commit-intent.json": 2648,
+      "complete.json": 2634,
+      "exit_code.txt": 2648,
+      "final_message.txt": 2634,
+      "interrupted-before-metadata-finalization.json": 2,
+      "interrupted.json": 9,
+      "metadata.json": 2648,
+      "quota-paused.json": 4,
+      "response.json": 2634,
+      "security-violation.json": 1,
+      "stderr.txt": 2648,
+      "stdout.jsonl": 2648
+    },
+    "canonical_attrition": 0,
+    "canonical_jobs": 2634,
+    "condition_list_mismatch": 0,
+    "duplicate_canonical_success": 0,
+    "duplicate_successful_session": 0,
+    "execution_integrity": "PASS",
+    "final_security_violations": 0,
+    "metadata_status_counts": {
+      "complete": 2634,
+      "model_runtime_error_no_output": 8,
+      "process-error": 1,
+      "quota-paused": 4,
+      "security-violation": 1
+    },
+    "outcome_access_before_unlock": 0,
+    "overwritten_output": 0,
+    "participant_mapping_mismatch": 0,
+    "participant_mixing": 0,
+    "raw_security_markers_retained": 1,
+    "substantive_invalid_answers": 0,
+    "substantive_invalid_rate_per_attempt": 0.0,
+    "successful_jobs_by_cli_version": {
+      "codex-cli 0.153.0": 424,
+      "codex-cli 0.153.3": 2210
+    },
+    "technical_or_quota_attempt_rate_per_attempt": 0.0060377358490566035,
+    "technical_or_quota_attempts_without_canonical_success": 16,
+    "total_attempts": 2650,
+    "usable_canonical_jobs": 2634
+  },
+  "source_configs_sha256": {
+    "config/model.yaml": "b75675e44da51fb63cd6b0e4facf4aa06c6a1b77c0498902dbc332857b47b35e",
+    "config/execution.yaml": "6524e8f4a26da6dea50c49bcedf9d51ed6b8512a9225e8fcd26aa876dd5588ca",
+    "config/confirmatory_stage1.yaml": "739392187abd7353a0f4f46d036033541064d53fc35e93a498140bfa1aa34941",
+    "config/confirmatory_supplemental.yaml": "f6c742e8d371c94ee3226eaeab846db64736e60af11ee866918ccf909f19c556"
+  },
+  "interpretation": "Aggregate historical metadata; not a new session-by-session audit or future runtime guarantee."
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "counts": {
+    "original": 1368,
+    "stage1": 342,
+    "k": 240,
+    "c2": 684
+  },
+  "total_canonical_answers": 2634,
+  "source": "Exactly one complete canonical response per frozen matrix job; completion receipt and response hash verified locally.",
+  "ordering": "lexicographic canonical JSON using public fields only; duplicates preserved",
+  "participant_linkage_included": false,
+  "original_ids_included": false,
+  "human_answers_included": false,
+  "human_outcomes_read": false,
+  "raw_logs_or_prompts_read": false,
+  "new_llm_calls": 0,
+  "cli_counts": {
+    "0.153.0": 424,
+    "0.153.3": 2210
+  },
+  "files": {
+    "original.jsonl": "026568741ea6e04f003fffef93aede202b137b08154c7b24872030b6d4aa080e",
+    "stage1.jsonl": "22cbaddd747d78c387c02c6b8a1a093822c2a4f775129d03eb2dd580404003fd",
+    "k.jsonl": "15e812c0ae28d1e9743c672d1eb98e297a50fbc44a1229d562eec98f33c45806",
+    "c2.jsonl": "bb053c132fd4c26b899350c74531d469e6b9984277711de47884539c5468d682"
+  }
+}

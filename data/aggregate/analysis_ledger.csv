@@ -1,0 +1,13 @@
+﻿analysis_name,research_role,outcome_blind_fixed,primary_or_secondary,inferential_or_descriptive,metric,sample_N,result_location,manuscript_section
+Stage 1 H8 conditioning check,DIAGNOSTIC,True,secondary,inferential,mean item-wise Spearman and vector permutation,342,outputs/reports/stage1_h8_results.md,Stage 1 conditioning result
+Benchmark-0 H8 references,DIAGNOSTIC,True,secondary,descriptive,item-wise and participant-mean H8 correspondence,342,outputs/diagnostics/benchmark0_reconciliation.md,Stage 1 conditioning result
+K stability,DIAGNOSTIC,True,secondary,descriptive,"ICC(1,1), K=3/5 reliability, repeat diagnostics",30,outputs/reports/k_stability_results.md,K stability
+C1 Spearman,PRIMARY,True,primary,inferential,"Spearman rho, bootstrap CI, participant-ID permutation",342,outputs/reports/confirmatory_results.md,C1 primary result
+C1 secondary metrics,SECONDARY,True,secondary,descriptive,"Pearson, MAE, bias, SD ratio, list/switching diagnostics",342,outputs/reports/confirmatory_results.md,C1 calibration and dispersion
+C2 strict sensitivity,SENSITIVITY,True,secondary,inferential,condition metrics and paired C2-C1 contrasts,342,outputs/reports/robustness_results.md,C2 sensitivity
+C3 task-proximal diagnostic,DIAGNOSTIC,True,secondary,inferential,condition metrics and paired C3-C1 contrasts,342,outputs/reports/robustness_results.md,C3 diagnostic
+Nested Ridge OOF reference,CONTEXTUAL_REFERENCE,True,secondary,descriptive,"Spearman, Pearson, MAE, R2",342,outputs/reports/robustness_results.md,Ridge reference
+Published R2+R3 reference,CONTEXTUAL_REFERENCE,True,secondary,descriptive,"Spearman, Pearson, standardized-outcome MAE and R2",342,outputs/reports/robustness_results.md,R2+R3 contextual reference
+Human risk test-retest context,CONTEXTUAL_REFERENCE,True,secondary,descriptive,Pearson r,44,outputs/reports/data_audit.md,Human measurement reliability context
+Constant-median MAE reference,POST_HOC_DESCRIPTIVE,False,secondary,descriptive,MAE and MAE ratio,342,outputs/tables/outcome_score_descriptives.csv,Scale-comparability notes
+Human-SD standardized MAE reference,POST_HOC_DESCRIPTIVE,False,secondary,descriptive,MAE / human SD,342,outputs/tables/outcome_score_descriptives.csv,Scale-comparability notes
