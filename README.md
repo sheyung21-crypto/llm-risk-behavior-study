@@ -1,8 +1,8 @@
 # 問卷條件化大型語言模型與個體風險排序
 
-本套件整理本研究的方法、凍結彙總結果、論文、圖表與經白名單整理的結構化模型回答，供研究方法查閱、單表計分核對及彙總圖表重建。這是獨立公開套件，沒有內部 Git 歷史、真人問卷回答、真人 outcome 或可對回個人的識別表。
+本套件整理本研究的方法、凍結彙總結果、論文、圖表與經白名單整理的結構化模型回答，供研究方法查閱、單表計分核對及彙總圖表重建。此為獨立公開套件，沒有內部 Git 歷史、真人問卷回答、真人 outcome 或可對回個人的識別表。
 
-**公開儲存庫：[sheyung21-crypto/llm-risk-behavior-study](https://github.com/sheyung21-crypto/llm-risk-behavior-study)。** 版本為 `2026-10-13-model-answers`。唯一作者為楊世永（Yang Shih-Yung），機構為天主教輔仁大學金融與國際企業學系。使用者已確認原作者同意資料研究使用，並批准本套件與模型回答公開；這不代表原始資料再散布授權。未另指定開放再利用授權，見 [授權狀態](LICENSE_STATUS.md) 及 [資料與權利說明](DATA_AVAILABILITY.md)。目前投稿目標為《東吳經濟商學學報》，本包不是匿名送審版，亦不表示論文已獲錄用。
+**公開儲存庫：[sheyung21-crypto/llm-risk-behavior-study](https://github.com/sheyung21-crypto/llm-risk-behavior-study)。** 版本為 `2026-10-13-model-answers`。唯一作者為楊世永（Yang Shih-Yung），機構為天主教輔仁大學金融與國際企業學系。使用者已確認原作者同意資料研究使用，並批准本套件與模型回答公開。未另指定開放再利用授權，見 [授權狀態](LICENSE_STATUS.md) 及 [資料與權利說明](DATA_AVAILABILITY.md)。
 
 ## 研究與結果
 
